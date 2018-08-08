@@ -1,1 +1,1 @@
-# MachineLearningTutor
+# MachineLearningTutorial
